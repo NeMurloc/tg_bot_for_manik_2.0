@@ -1,0 +1,6 @@
+.container {
+    height: 147px;
+    background-color: var(--tg-theme-bg-color);
+    margin-left: -15px;
+    margin-right: -15px;
+}

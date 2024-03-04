@@ -1,38 +1,38 @@
-.App {
-  text-align: center;
+
+body {
+  background-color: var(--tg-theme-secondary-bg-color);
+  color: var(--tg-theme-text-color);
+  max-width: 500px;
+  margin-left: 15px;
+  margin-right: 15px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+@font-face {
+  font-family: 'SF Pro Bold';
+  src: url('./fonts/SF-Pro-Display-Bold.otf') format('opentype');;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+@font-face {
+  font-family: 'SF Pro Regular';
+  src: url('./fonts/SF-Pro-Display-Regular.otf') format('opentype');;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+@font-face {
+  font-family: 'SF Pro Semibold';
+  src: url('./fonts/SF-Pro-Display-Semibold.otf') format('opentype');;
 }
 
-.App-link {
-  color: #61dafb;
+@font-face {
+  font-family: 'SF Pro Rounded Semibold';
+  src: url('./fonts/SF-Pro-Rounded-Semibold.otf') format('opentype');;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+@font-face {
+  font-family: 'SF Pro Medium';
+  src: url('./fonts/SF-Pro-Display-Medium.otf') format('opentype');;
+}
+
+@font-face {
+  font-family: 'SF Mono Regular';
+  src: url('./fonts/SF-Mono-Regular.otf') format('opentype');;
 }

@@ -1,0 +1,9 @@
+.header {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.subHeadLine {
+    padding-top: 3px;
+    color: var(--tg-theme-hint-color);
+}

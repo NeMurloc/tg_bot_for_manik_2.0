@@ -1,0 +1,34 @@
+.containerSwiper {
+    position: relative;
+    height: 270px;
+    width: calc(100% + 30px);
+    background-color: var(--tg-theme-section-bg-color);
+    margin: -15px;
+}
+
+.mySwiper {
+    width: 100%;
+    height: 100%;
+}
+
+.swiperSlide {
+    text-align: center;
+    font-size: 18px;
+
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.swiperSlideImg {
+    display: block;
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+
+.mySwiper {
+    margin-left: auto;
+    margin-right: auto;
+}

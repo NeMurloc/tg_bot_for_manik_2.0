@@ -1,0 +1,99 @@
+.elem {
+    /* background-color: gray; */
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+}
+
+
+.btn {
+    background-color: transparent;
+    border: none;
+    width: 46px;
+    height: 60px;
+    margin-left: auto;
+    margin-right: 0px;
+    padding-top: 6px;
+    /* background-image: url('../../vectorIcons/Info.svg'); */
+    
+}
+
+.btn svg {
+    fill: var(--tg-theme-button-color);
+}
+
+.containerForCheckbox {
+    height: 24px;
+}
+
+.chbx {
+    margin: 0 17px;
+    /* background-image: url('../../images/Edit_Button-2.svg'); */
+    
+    appearance: none;
+    
+
+    width: 24px;
+    height: 24px;
+    border: 1.5px solid var(--tg-theme-hint-color);
+    border-radius: 50%;
+}
+
+.chbx:checked {
+    background-color: var(--tg-theme-button-color);
+    border: none;
+}
+
+.chbx:checked::before {
+    content: '\2713';
+    font-size: 15px;
+    color: var(--tg-theme-bg-color);
+    display: block;
+    text-align: center;
+    line-height: 23px;
+}
+
+/* .chbx::before {
+    background-image: url('../../images/Edit_Button-2.svg');
+}
+
+.chbx:checked {
+    background-image: url('../../images/Edit_Button.svg');
+} */
+
+
+
+
+
+.sbhdln {
+    color: var(--tg-theme-hint-color);
+
+}
+
+.hdlnbd {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.text {
+    
+    /* width: 100px; */
+    overflow: hidden;
+}
+
+.textbtndiv {
+    overflow: hidden;
+    flex-grow: 1;
+    height: 60px;
+
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid var(--tg-theme-secondary-bg-color);
+}
+
+.containerForLastChild:last-child .textbtndiv {
+    border-bottom: none;
+}

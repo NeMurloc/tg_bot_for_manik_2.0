@@ -1,0 +1,14 @@
+.blockName {
+    color: var(--tg-theme-hint-color);
+    padding-left: 15px;
+    padding-bottom: 7px;
+}
+
+.list {
+    background-color: var(--tg-theme-bg-color);
+    border-radius: 10px;
+}
+
+.block {
+    margin-bottom: 18px;
+}
