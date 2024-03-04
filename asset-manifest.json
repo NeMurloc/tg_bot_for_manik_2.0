@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tg_bot_for_manik_2.0/static/css/main.d34f55ab.css",
+    "main.js": "/tg_bot_for_manik_2.0/static/js/main.48a8afcb.js",
+    "static/media/SF-Pro-Rounded-Semibold.otf": "/tg_bot_for_manik_2.0/static/media/SF-Pro-Rounded-Semibold.cb1eeb24a6b1124f56ab.otf",
+    "static/media/SF-Pro-Display-Semibold.otf": "/tg_bot_for_manik_2.0/static/media/SF-Pro-Display-Semibold.6099dd43659d57ccaab5.otf",
+    "static/media/SF-Pro-Display-Bold.otf": "/tg_bot_for_manik_2.0/static/media/SF-Pro-Display-Bold.0edd1bada269d5887ee1.otf",
+    "static/media/SF-Pro-Display-Medium.otf": "/tg_bot_for_manik_2.0/static/media/SF-Pro-Display-Medium.d662b8cc0de816bd8db7.otf",
+    "static/media/SF-Pro-Display-Regular.otf": "/tg_bot_for_manik_2.0/static/media/SF-Pro-Display-Regular.10e03531b907510de61f.otf",
+    "static/media/def.jpeg": "/tg_bot_for_manik_2.0/static/media/def.580d205f6e86249f0720.jpeg",
+    "static/media/svert.jpeg": "/tg_bot_for_manik_2.0/static/media/svert.97d1369752096ee291d9.jpeg",
+    "static/media/SF-Mono-Regular.otf": "/tg_bot_for_manik_2.0/static/media/SF-Mono-Regular.dd15a7c876111223f6ca.otf",
+    "static/media/ver.jpeg": "/tg_bot_for_manik_2.0/static/media/ver.06030491c63c9edb191b.jpeg",
+    "static/media/sgor.jpeg": "/tg_bot_for_manik_2.0/static/media/sgor.800f45df20a66a14a0f4.jpeg",
+    "static/media/square.jpeg": "/tg_bot_for_manik_2.0/static/media/square.444c4753a5542ec2d951.jpeg",
+    "static/media/gor.jpeg": "/tg_bot_for_manik_2.0/static/media/gor.a1c6b6693c1107368edd.jpeg",
+    "index.html": "/tg_bot_for_manik_2.0/index.html",
+    "main.d34f55ab.css.map": "/tg_bot_for_manik_2.0/static/css/main.d34f55ab.css.map",
+    "main.48a8afcb.js.map": "/tg_bot_for_manik_2.0/static/js/main.48a8afcb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d34f55ab.css",
+    "static/js/main.48a8afcb.js"
+  ]
+}
